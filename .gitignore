@@ -1,0 +1,7 @@
+
+#ignore everything in the data folder
+Data/
+
+# ignore all word files
+**/*.doc
+**/*.docx
