@@ -1,1 +1,3 @@
+Title: My Amazing Short Story
+
 Hello, world.
